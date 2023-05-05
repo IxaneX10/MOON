@@ -1,0 +1,96 @@
+html {
+    background-color: rgb(27, 31, 59);
+}
+.alien {
+    margin: 4% auto;
+    display: block;
+}
+.moon {
+    position: relative;
+    background-color: rgb(228,234,141);
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 20%;
+    border-radius: 50%;
+    border-color: #d2d884;
+    border-style: solid;
+    border-width: 7px;
+    box-shadow: 0px 0px 15px #d2d884;
+
+}
+.one{
+    position: absolute;
+    background-color: #d2d884;
+    border-radius: 50%;
+    margin: -18% 53%;
+    padding: 6%;
+
+    border-color: rgb(228,234,141);
+    border-style: dashed;
+    border-width: 1px;
+    box-shadow: 8px 8px 15px rgb(219, 224, 153);
+    
+}
+.two {
+    position: absolute;
+    background-color: #d2d884;
+    border-radius: 50%;
+    margin: -37% 43%;
+    padding: 3%;
+    border-color: rgb(228,234,141);
+    border-style: dashed;
+    border-width: 1.9px;
+    box-shadow: 8px 8px 15px rgb(219, 224, 153);
+
+}
+.three {
+    position: absolute;
+    background-color: #d2d884;
+    border-radius: 50%;
+    margin: -28% 33%;
+    padding: 3.75%;
+    border-color: rgb(228,234,141);
+    border-style: dashed;
+    border-width: 1px;
+    box-shadow: 8px 8px 15px rgb(219, 224, 153);
+
+}
+.four {
+    position: absolute;
+    background-color: #d2d884;
+    border-radius: 50%;
+    margin: -12% 40%;
+    padding: 2.9%;
+    border-color: rgb(228,234,141);
+    border-style: dashed;
+    border-width: 1px;
+    box-shadow: 8px 8px 15px rgb(219, 224, 153);
+
+}
+.five {
+    position: absolute;
+    background-color: #d2d884;
+    border-radius: 50%;
+    margin: -33% 53.4%;
+    padding: 4.3%;
+    border-color: rgb(228,234,141);
+    border-style: dashed;
+    border-width: 1px;
+    box-shadow: 8px 8px 15px rgb(219, 224, 153);
+
+    
+}
+.six {
+    position: absolute;
+    background-color: #d2d884;
+    border-radius: 50%;
+    margin: -23% 46%;
+    padding: 2.5%;
+    border-color: rgb(228,234,141);
+    border-style: dashed;
+    border-width: 1px;
+    box-shadow: 8px 8px 15px rgb(219, 224, 153);
+
+    
+}
+
